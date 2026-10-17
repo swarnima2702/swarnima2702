@@ -135,7 +135,7 @@ const swarnima = {
 </p>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <i>"First, solve the problem. Then, write the code."</i> — Swarnima Jaiswal
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C873A,100:61DAFB&height=120&section=footer" width="100%" alt="footer" />
