@@ -7,6 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C873A,100:61DAFB&height=200&section=header&text=Swarnima%20Jaiswal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE&descAlignY=56&descSize=18" width="100%" alt="header" />
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Swarnima+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Express+%7C+MongoDB;B.Tech+CSE+%40+Dev+Bhoomi+Uttarakhand+University+%F0%9F%8E%93;Turning+ideas+into+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
